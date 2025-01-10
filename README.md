@@ -58,11 +58,6 @@
 </table>
 
 ---
-
-<br/>  
 💌
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Dafne-CA&&style=flat-square)  
-  
-
-<br/>  
