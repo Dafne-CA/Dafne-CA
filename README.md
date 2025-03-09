@@ -20,13 +20,13 @@
 
 ### Glad to see you here!  
 
+👩‍💻 I'm a Cloud & Database Trainee, aspiring to become a Cloud Developer! 💕
 
-👩‍💻 I'm a **backend developer** passionate about building solid and efficient systems with **Java** and **Spring Boot**.  
+☁️ Exploring API Gateway, Lambda, Amplify, etc through internal projects and simulations.
 
-🌸 Always learning new things like **Spring Security** and **microservices** to make my projects more secure and scalable. 
+🌸 Preparing for AWS Associate Architect, with plans to pursue AWS Associate Developer next.
 
-✨ Love taking on challenges and constantly improving to create solutions that truly make a difference.  
-
+✨ Passionate about cloud technologies and continuously improving my skills to create scalable and efficient solutions.
 
 <br/>  
 
@@ -35,6 +35,9 @@
 <div align="center">
    <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" height="50" /></a>
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+  <a href="https://reactjs.org/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+</a>
   <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
