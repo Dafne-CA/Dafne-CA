@@ -33,6 +33,7 @@
 ## Languages and Tools  
 
 <div align="center">
+   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" height="50" /></a>
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
   <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
@@ -44,6 +45,16 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 </div>  
 
+## 🎖️ Badges  
+
+<div align="center">
+  <a href="https://www.credly.com/badges/b1c5b643-1a5b-4d66-8cf3-c7e56847fd13" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="AWS Partner: Technical Accredited" width="120" />
+  </a>
+  <a href="https://www.credly.com/badges/74519da9-4408-433c-a741-b112978a33f6" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png" alt="AWS Partner: Sales Accreditation" width="120" />
+  </a>
+</div>  
 
 ## Github Stats  
 <table>
