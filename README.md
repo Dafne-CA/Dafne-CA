@@ -57,6 +57,9 @@
   <a href="https://www.credly.com/badges/74519da9-4408-433c-a741-b112978a33f6" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png" alt="AWS Partner: Sales Accreditation" width="120" />
   </a>
+<a href="https://www.credly.com/badges/55384bc8-e9e7-4151-a232-1583681d42f9/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="120" />
+  </a>
 </div>  
 
 ## Github Stats  
